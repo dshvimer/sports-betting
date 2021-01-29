@@ -4,8 +4,8 @@ This is an app created using https://www.streamlit.io/
 
 Install with `pip install streamlit`
 
-To start collecting data, add the API key to `betting.py`
-
-Run it with `python betting.py`
+To start collecting data, add the API key to `betting.py`, then run it with `python betting.py`. It will collect live sports odds every minute
 
 In another terminal, `streamlit run betting_app.py`
+
+The programs can run together or individually
